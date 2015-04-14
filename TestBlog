@@ -15,8 +15,19 @@
         <h3> April 13, 2015 </h3>
         <h4> Breanna Hartman </h4>
       </header>
+      <article> 
+        <p>I'm super excited to actually build a website. Besides being a useful skill for the resume, it is also just really neat to be more computer savvy. Also, this will allow me to help my fellow interneters in populating the entire interwebs with pictures of kittens and Nic Cage. </p>
+        <p> Besides internet domination, websites are cool for being functional for end-users. Like Wikipedia, for citations about everything. </p>
+      </article>
     </section>
-    <aside> </aside>
+    <aside> 
+      <section> 
+        <h4> Widget </h4>
+      </section>
+        <h4> Widget </h4>
+      <section>
+      </section>
+    </aside>
 
   </body>
 </html>
